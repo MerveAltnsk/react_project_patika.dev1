@@ -17,7 +17,7 @@ function App() {
 
       <Card 
       title="Merve" 
-      text="ı got it"
+      text="Hello"
       />
       
     </View>
