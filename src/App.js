@@ -5,19 +5,19 @@ import styles from './components/Card/card_styles'
 function App() {
   return (
     <View style={styles.container} >
-     <Card title="ilhami" text="Abi sen söyle , ben başka bir ilde miyim?"/>
-      <Card title="Yılmaz" text="Benim zevklerim sizin nezdinizde makul bir zemine oturmak zorunda değil."/>
-      <Card title="İlkkan" text="Yahşı günde yar yahşı , Yaman günde yetiş gardaş"/>
-
+     <Card 
+     title="Eleanor Roosevelt" 
+     text="Yesterday is history, tomorrow is unknown, today is a gift Quotes about living in the moment"
+     />
 
       <Card 
-      title="phoebe" 
-      text="MY EYES! MY EYES!"
+      title="Shakespeare" 
+      text="To be or not to be: that is the question"
       />
 
       <Card 
-      title="Merve" 
-      text="Hello"
+      title="Benjamin Franklin" 
+      text="Anyone who decides to correct her mistakes from now on has decided not to correct them now."
       />
       
     </View>
